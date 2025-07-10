@@ -1,101 +1,84 @@
-# Hello, I am Maksym
+<p align="center">
+  <img src="https://path-to-your-banner-image.png" alt="Hi, I am Maksym" />
+</p>
 
-## I'm a Software Engineer.
+<h1 align="center">Привіт, я Максим 👋</h1>
+<h3 align="center">System & Backend Engineer (Rust / C++)</h3>
 
-### About Me 
-
-I am a developer with more than 5 years of experience in various programming fields. During this time, I've tried my hand at many things and worked in such areas as computer application development, working with the Android Open Source Project (AOSP), as well as developing HRMS and CRM systems. However, after studying and working with various technologies, I realized that I like backend development, system and embedded programming the most. These are the areas I focus most of my time on now, as they allow me to solve technically complex problems, create productive and reliable solutions. My goal is to continue improving my skills in these areas, creating efficient and sustainable systems that can scale and adapt to new challenges. 
+<p align="center">
+  Універсальний інженер-програміст із 4+ роками досвіду в розробці системного ПЗ, backend-архітектур та вбудованих систем. Спеціалізуюся на створенні високопродуктивних та надійних рішень на C++ та Rust. Захоплююся розробкою продуктів з нуля, від прошивок для мікроконтролерів до складних backend-платформ.
+</p>
 
 ---
-- 💻 Main focus: back-end development, system programming, embedded systems. 
-- 📱 Experience in AOSP and development of HRMS/CRM systems.  
-- 🚀 I always strive to improve my skills to develop effective and scalable solutions.
-****
-### Technology Stack
-- **Operating System**: Arch Linux
-- **IDE and Editors**: RustRover, CLion, VS Code, Android Studio
-- **Primary Languages**: Rust, C, C++, Python, Kotlin, Java
-- **Frameworks and Libraries**: Actix, WebRTC, Boost, Qt5/6
-- **Build tools**: Cmake, make, Ninja
-- **Databases**: PostgreSQL, MySQL, MongoDB, Firebase 
-- **Containerization and Orchestration**: Docker
-- **Version Control Systems**: Git, GitHub, GitLab, BitBucket
-- **CI/CD**:Jenkins, GitHub Actions
-- **Testing Tools**: GoogleTest
-- **Virtualization and Environments**: VirtualBox, Docker Compose
-- **Embedded Development**: PlatformIO
-- **Networking Tools**: Netcat
 
-### Tech Skills
-- **С++**: С++98/11/14/17/20/23, GoogleTest, Cmake, STL, Boost, Qt 
-- **С**: C99/C11, GCC/Clang, Make
-- **Rust**: Cargo, actix, serde, tokio, axum, diesel
-- **DB**: MySQL, PostgreSQL, SQLite, MongoDB
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/your-telegram">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
-****
-### Professional Experience
+---
 
-Throughout my journey as a Software Engineer, I have had the opportunity to work in various industries and contribute to a range of impactful projects, primarily using C++ and other technologies like Java, Qt, and MySQL. Each experience has allowed me to deepen my understanding of software engineering, from desktop and mobile application development to backend systems and automation solutions.
+<h3 align="center">🔥 Мій технологічний стек</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Actix"/>
+  <img src="https://img.shields.io/badge/WebRTC-222222?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
+  <img src="https://img.shields.io/badge/GStreamer-DDDDDD?style=for-the-badge&logo=gstreamer&logoColor=black" alt="GStreamer"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/ESP32-E7332A?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+</p>
 
-In one project, I developed a product focused on automating price updates for business documents. This project resulted in a 10% reduction in company expenses and a significant boost in productivity. Additionally, I built an intuitive application for monitoring and assigning tasks to employees, which streamlined internal processes and enhanced overall work efficiency. This project allowed me to apply my C++ and Qt skills in a real-world environment, demonstrating the value of automation in business operations.
+---
 
-In another experience, I was immersed in the world of embedded development and mobile systems, where I worked on both **AOSP (Android Open Source Project)** and vendor-specific products. My role involved contributing to the creation and refinement of key features while working closely with cross-functional teams. I participated in design discussions and collaborated on implementing new functionality, focusing on improving the stability and reliability of the systems. Through detailed analysis and debugging, I helped ensure a seamless user experience. My work with technologies like **C++, Java, and Android SDK/NDK** gave me a deeper understanding of both software and hardware integration, a crucial aspect of embedded systems.
+<h3 align="center">🚀 Мої головні проєкти</h3>
+<p align="center"><i>Не забудь закріпити найкращі репозиторії! README має їх доповнювати.</i></p>
 
-I also supported a dynamic project aimed at managing mobile facilities, including trucks and cars. One of my major contributions was leading the migration of the application to more modern technologies, which ensured its scalability and readiness for future growth. I also developed new functionality based on client requests and optimized technical processes, which enhanced operational efficiency. This experience solidified my skills in using **C++ (with Boost) and C++Builder** for creating robust solutions tailored to the transportation industry.
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/your-username/project-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=dracula&show_owner=true" />
+      </a>
+      <p><b>Система відеоспостереження на WebRTC</b></p>
+      <p>Перетворює смартфон на IP-камеру з трансляцією на десктопний клієнт.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/your-username/project-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=dracula&show_owner=true" />
+      </a>
+      <p><b>Backend для HRMS на Rust</b></p>
+      <p>Розробка масштабованої backend-архітектури з нуля на Actix-web та Diesel.</p>
+    </td>
+  </tr>
+</table>
 
-Additionally, I gained valuable experience in full-cycle software development through my work as a **C++ Developer**. I was responsible for developing user-friendly interfaces using **Qt**, implementing database interactions with **MySQL and Firebase**, and ensuring seamless data management. Collaborating closely with stakeholders, I gathered requirements to deliver practical and efficient solutions. I also actively participated in code reviews and worked alongside the team to ensure that we followed best practices throughout the development lifecycle.
-#### **Achievements**
+---
 
-- 🏆 **Automated Price Updates**: Developed a product focused on automating price updates for business documents, resulting in a 10% reduction in company expenses and a significant boost in productivity.
-- 🚀 **Created Task Monitoring and Assignment Application**: Built an intuitive application for monitoring tasks and managing employees, which improved overall work efficiency within the organization.
-- 🔧 **Migrated Application to Modern Technologies**: Led the migration of an application for managing mobile facilities to modern technologies, ensuring scalability and future readiness.
-- 📱 **Enhanced AOSP-based Systems**: Actively contributed to the development and refinement of functionality for **AOSP** and vendor products, improving system stability and reliability.
-
-### Current Work
-
-Currently, I am working on building the backend of an HRMS platform from scratch. This project involves both the design and implementation of the system, and I am leading the entire technical aspect of the development. My responsibilities include architecting the platform, ensuring scalability, and implementing core functionachalities to meet the specific needs of the system. This project has allowed me to take on a leadership role, overseeing the technical direction while also focusing on delivering a robust and reliable solution.
-****
-### Learning and goals
-#### Programming Languages
-
-- **Rust**:  
-    I am deepening my knowledge of **Rust**, especially in the areas of systems programming and concurrency. My goal is to leverage its memory safety and performance features to build high-performance, low-latency applications.
-    
-- **C++**:  
-    I am studying advanced features of C++, in particular in the field of system programming and Internet protocols. I am also studying the application of the 23/26 standard.
-#### Backend
-
-- **Microservices Architecture**:  
-    I'm deepening my understanding of microservices architecture, including using **Docker** and **Kubernetes** for container orchestration. I also study patterns to write code more efficiently. My goal is to develop scalable, efficient systems that can handle complex distributed workloads.
-- **CI/CD**:  
-    I am improving my skills in automating deployment pipelines with tools like **GitHub Actions**. My focus is on reducing manual intervention and ensuring seamless, continuous integration and deployment.
-    
-- **Database Optimization**:  
-    I'm focusing on optimizing SQL databases (e.g., **PostgreSQL**, **MySQL**) for high performance in large-scale systems. My goal is to ensure efficient querying and data management while minimizing resource usage.
-- **Back-end framework and libs**:  
-    I will deepen my knowledge in using actix-web, axum, diesel and tokio 
-
-#### System
-
-- **Operating Systems and Kernel**:  
-    I'm exploring low-level programming with **C** and **Rust**, particularly around operating system kernels and memory management. My goal is to gain a better understanding of how systems manage hardware and processes.
-    
-- **Concurrency and Parallelism**:  
-    With a focus on performance, I'm diving deeper into concurrency patterns in both **Rust** and **C++**. My goal is to build applications that can scale horizontally while maintaining reliability under heavy workloads.
-    
-#### Embedded
-
-- **Real-time Systems**:  
-    I’m working on embedded projects using **ESP32** and **Arduino**, focusing on real-time systems. My goal is to understand how real-time operating systems (RTOS) manage tasks and resources in a time-sensitive environment.
-    
-- **Low-power IoT Devices**:  
-    I'm learning to optimize embedded systems for low-power applications, particularly in **IoT**. My goal is to design energy-efficient devices that can operate reliably with minimal power consumption.
-    
-- **Firmware Development**:  
-    I'm enhancing my skills in firmware development with **C/C++** for microcontrollers. I aim to master writing efficient, reliable firmware for various embedded platforms, with a focus on stability and performance.
-
-****
-
-### My projects I am working on 
-
-At the moment I am working on an application that can broadcast live from your phone to your computer. This application will help to turn old android phones into video surveillance cameras that can be used in cars, to protect the yard, and at home. 
+<h3 align="center">📊 Моя GitHub статистика</h3>
+<p align="center">
+  <a href="https://github.com/mpavk">
+    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Maksym's GitHub Stats"/>
+  </a>
+  <br/>
+  <a href="https://github.com/your-username">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"/>
+  </a>
+</p>
