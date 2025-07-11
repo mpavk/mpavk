@@ -1,37 +1,28 @@
-<h1 align="center">Привіт, я Максим 👋</h1>
-<h3 align="center">System & Backend Engineer (Rust / C++)</h3>
+```bash
+maksym@github:~$ whoami
 
-<p align="center">
-  Захоплююся створенням високопродуктивних систем на C++ та Rust. Моя мета — розробляти надійні та масштабовані рішення, занурюючись у складні технічні завдання в області backend, системного та embedded-програмування.
-</p>
+"Мене звати Максим. Я — Software Engineer, що створює
+ backend-, системні та embedded-рішення.
+ Працюю з C++, Rust та Linux. Вітаю у моєму профілі!"
 
----
+maksym@github:~$ cat skills.txt
 
-### 🌱 Чим я зараз займаюся:
+LANGUAGES   : [ Rust, C++, C, Kotlin, Python ]
+BACKEND     : [ Actix-web, Diesel, WebRTC, PostgreSQL, MySQL ]
+SYSTEMS     : [ Docker, Linux, GStreamer, CMake, Git ]
+EMBEDDED    : [ ESP-IDF, FreeRTOS, PlatformIO ]
 
-* 🚀 **Розробляю:** Backend для HRMS-платформи на Rust, архітектуру якої створюю з нуля.
-* 📱 **Експериментую:** З трансляцією відео в реальному часі за допомогою WebRTC та GStreamer.
-* 📚 **Вивчаю:** Поглиблено асинхронність в Rust (Tokio), патерни мікросервісної архітектури та особливості ядра Linux.
-* 💡 **Шукаю:** Нові виклики в галузі системного програмування або розробки складних backend-рішень.
+maksym@github:~$ ls -l current_projects/
 
----
+-rw-r--r-- 1 maksym dev 12K Jul 11 22:45  HRMS_Backend_on_Rust
+-rw-r--r-- 1 maksym dev 8.5K Jul 11 22:45  WebRTC_Video_Streaming_App
+-rw-r--r-- 1 maksym dev 4.1K Jul 11 22:45  ESP32_Scanner_Firmware
 
-### 🛠️ Мої улюблені інструменти та технології
+maksym@github:~$ ./contact --all
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+ > LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+ > Email:    your-email@example.com
+ > Telegram: t.me/your-telegram
 
----
-
-### 📫 Як зі мною зв'язатися:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">LinkedIn</a> | 
-  <a href="mailto:your-email@example.com">Email</a> | 
-  <a href="https://t.me/your-telegram">Telegram</a>
-</p>
+maksym@github:~$ exit
+```
