@@ -84,6 +84,6 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile/">LinkedIn</a> &nbsp;|&nbsp; 
-  <a href="mailto:your-email@example.com">Email</a> &nbsp;|&nbsp; 
+  <a href="mailto:pavlenko.maksym.a@gmail.com">Email</a> &nbsp;|&nbsp; 
   <a href="https://t.me/your-telegram">Telegram</a>
 </p>
