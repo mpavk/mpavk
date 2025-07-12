@@ -23,16 +23,38 @@
 
 ### 🛠️ Інструменти, які я використовую для досліджень та розробки
 
-<p align="center">
-  <code>Rust</code> &nbsp;&nbsp;·&nbsp;&nbsp; 
-  <code>C++</code> &nbsp;&nbsp;·&nbsp;&nbsp; 
-  <code>C</code> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <code>Linux</code> &nbsp;&nbsp;·&nbsp;&nbsp; 
-  <code>Docker</code> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <code>PostgreSQL</code> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <code>CMake</code> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <code>Git</code>
-</p>
+<table>
+  <tr>
+    <td valign="top"><strong>Мови програмування</strong></td>
+    <td valign="top">
+      <code>Rust</code> &nbsp; <code>C++ (17/20)</code> &nbsp; <code>C (C11)</code> &nbsp; <code>Kotlin</code> &nbsp; <code>Python</code> &nbsp; <code>Java</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Backend та Мережі</strong></td>
+    <td valign="top">
+      <code>Actix-web</code> &nbsp; <code>Tokio</code> &nbsp; <code>Diesel</code> &nbsp; <code>WebRTC</code> &nbsp; <code>GStreamer</code> &nbsp; <code>REST API</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Системи та Інструменти</strong></td>
+    <td valign="top">
+      <code>Linux (Arch)</code> &nbsp; <code>Docker</code> &nbsp; <code>Git / GitHub</code> &nbsp; <code>CMake / Make</code> &nbsp; <code>CI/CD (Actions)</code>
+    </td>
+  </tr>
+    <tr>
+    <td valign="top"><strong>Бази даних</strong></td>
+    <td valign="top">
+      <code>PostgreSQL</code> &nbsp; <code>MySQL</code> &nbsp; <code>MongoDB</code> &nbsp; <code>Firebase</code> &nbsp; <code>SQLite</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Embedded</strong></td>
+    <td valign="top">
+      <code>ESP-IDF</code> &nbsp; <code>PlatformIO</code> &nbsp; <code>FreeRTOS</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
