@@ -85,5 +85,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/maksym-pavlenko-b153b01a9/">LinkedIn</a> &nbsp;|&nbsp; 
   <a href="mailto:pavlenko.maksym.a@gmail.com">Email</a> &nbsp;|&nbsp; 
-  <a href="https://t.me/your-telegram">Telegram</a>
+  Discord: <strong>mpavk</strong>
 </p>
