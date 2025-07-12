@@ -1,33 +1,33 @@
 <div align="center">
-  <h1>Максим</h1>
-  <h3>Фізик за освітою, інженер-програміст за покликанням</h3>
+  <h1>Maksym</h1>
+  <h3>Physicist by Education, Software Engineer by Passion</h3>
 </div>
 
 <p align="center">
-  Мій шлях у розробку почався з фізики — науки, яка вчить розкладати складні явища на фундаментальні принципи. Цей підхід я переніс і в інженерію. Замість того, щоб просто використовувати технології, я прагну зрозуміти, як вони працюють на базовому рівні. Це дозволяє мені створювати ефективні, надійні та оптимізовані рішення.
+  My journey into software development began with physics—a discipline that taught me to deconstruct complex phenomena into first principles. I now apply this mindset to engineering, striving to understand how technologies work at a fundamental level rather than just using them as black boxes. This approach enables me to build effective, reliable, and optimized solutions.
 </p>
 
 ---
 
-### 🔬 Напрямки, що мене захоплюють (і чому)
+### 🔬 My Core Interests & Focus (and Why)
 
-| Напрямок | Моя мотивація та мета розвитку |
+| Domain | My Motivation & Development Goals |
 | :--- | :--- |
-| **Системне програмування** | 🔹 Це "фізика" комп'ютерних систем. Мені цікаво досліджувати, як операційні системи керують пам'яттю, як працюють мережеві протоколи та як досягти максимальної продуктивності, працюючи близько до "заліза". **Планую** поглиблено вивчати ядро Linux та розробляти системні утиліти на Rust. |
-| **Високопродуктивний Backend** | 🔹 Тут я бачу можливість моделювати та будувати складні розподілені системи. Мене приваблює задача оптимізації баз даних, розробка асинхронних сервісів та створення архітектури, що здатна масштабуватися під реальні навантаження. **Планую** розвивати навички в мікросервісних патернах та інструментах оркестрації (Kubernetes). |
-| **Вбудовані системи (Embedded)** | 🔹 Це прямий міст між кодом та фізичним світом. Захоплює можливість писати програми для пристроїв, які взаємодіють з реальністю через сенсори та механізми. **Планую** створювати більше проєктів на ESP32 та Raspberry Pi, фокусуючись на системах реального часу (RTOS) та IoT. |
+| **Systems Programming** | 🔹 This is the 'physics' of computer systems. I am passionate about exploring how operating systems manage memory, how network protocols function, and how to achieve maximum performance by working close to the metal. **My plan** is to delve deeper into the Linux kernel and develop system utilities in Rust. |
+| **High-Performance Backend** | 🔹 Here, I see the opportunity to model and build complex distributed systems. I am drawn to the challenge of optimizing databases, developing asynchronous services, and architecting systems capable of scaling under real-world loads. **My plan** is to advance my skills in microservice patterns and orchestration tools like Kubernetes. |
+| **Embedded Systems** | 🔹 This is the direct bridge between code and the physical world. I'm fascinated by the opportunity to write software for devices that interact with reality through sensors and actuators. **My plan** is to build more projects with ESP32 and Raspberry Pi, focusing on Real-Time Operating Systems (RTOS) and IoT. |
 
 ---
 
-### 🏛️ Мої інженерні принципи
+### 🏛️ My Engineering Principles
 
-* **Підхід з перших принципів:** Завжди намагаюся зрозуміти, *як* технологія працює всередині, а не просто використовувати її як "чорну скриньку".
-* **Простота та надійність:** Найкращий код — це той, який легко читати, підтримувати та масштабувати. Я віддаю перевагу простим та елегантним рішенням.
-* **Продуктивність за задумом:** Думаю про оптимізацію на етапі архітектури, а не як про виправлення наприкінці розробки.
+* **First-Principles Thinking:** I always strive to understand *how* a technology works internally, not just use it as a 'black box'.
+* **Simplicity & Reliability:** The best code is easy to read, maintain, and scale. I prioritize simple and elegant solutions.
+* **Performance by Design:** I think about optimization during the architectural phase, not as an afterthought.
 
 ---
 
-### 💡 Приклад мого підходу в дії
+### 💡 An Example of My Approach in Action
 
 <p align="center">
   <a href="https://github.com/mpavk/web_rc_car">
@@ -35,34 +35,34 @@
   </a>
 </p>
 <p align="center">
-  <i>Цей проєкт демонструє мій інтерес до поєднання програмного забезпечення з реальним світом. Тут я розробив систему для дистанційного керування RC-автомобілем, реалізувавши передачу відео в реальному часі з камери на Raspberry Pi за допомогою GStreamer та WebRTC.</i>
+  <i>This project demonstrates my interest in combining software with the physical world. Here, I developed a system for remotely controlling an RC car, implementing real-time video streaming from a Raspberry Pi camera using GStreamer and WebRTC.</i>
 </p>
 
 ---
 
-### 🛠️ Інструменти, які я використовую для досліджень та розробки
+### 🛠️ Tools I Use for Research & Development
 
 <table>
   <tr>
-    <td valign="top"><strong>Мови програмування</strong></td>
+    <td valign="top"><strong>Programming Languages</strong></td>
     <td valign="top">
       <code>Rust</code> &nbsp; <code>C++ (17/20)</code> &nbsp; <code>C (C11)</code> &nbsp; <code>Kotlin</code> &nbsp; <code>Python</code> &nbsp; <code>Java</code>
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Backend та Мережі</strong></td>
+    <td valign="top"><strong>Backend & Networking</strong></td>
     <td valign="top">
       <code>Actix-web</code> &nbsp; <code>Tokio</code> &nbsp; <code>Diesel</code> &nbsp; <code>WebRTC</code> &nbsp; <code>GStreamer</code> &nbsp; <code>REST API</code>
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Системи та Інструменти</strong></td>
+    <td valign="top"><strong>Systems & Tooling</strong></td>
     <td valign="top">
       <code>Linux (Arch)</code> &nbsp; <code>Docker</code> &nbsp; <code>Git / GitHub</code> &nbsp; <code>CMake / Make</code> &nbsp; <code>CI/CD (Actions)</code>
     </td>
   </tr>
     <tr>
-    <td valign="top"><strong>Бази даних</strong></td>
+    <td valign="top"><strong>Databases</strong></td>
     <td valign="top">
       <code>PostgreSQL</code> &nbsp; <code>MySQL</code> &nbsp; <code>MongoDB</code> &nbsp; <code>Firebase</code> &nbsp; <code>SQLite</code>
     </td>
@@ -77,10 +77,10 @@
 
 ---
 
-### 🤝 Давайте обговорювати складні задачі
+### 🤝 Let's Discuss Complex Challenges
 
 <p align="center">
-  Я завжди відкритий до спілкування про цікаві інженерні виклики.
+  I'm always open to discussing interesting engineering challenges.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile/">LinkedIn</a> &nbsp;|&nbsp; 
