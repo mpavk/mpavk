@@ -83,7 +83,7 @@
   I'm always open to discussing interesting engineering challenges.
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/">LinkedIn</a> &nbsp;|&nbsp; 
+  <a href="https://www.linkedin.com/in/maksym-pavlenko-b153b01a9/">LinkedIn</a> &nbsp;|&nbsp; 
   <a href="mailto:pavlenko.maksym.a@gmail.com">Email</a> &nbsp;|&nbsp; 
   <a href="https://t.me/your-telegram">Telegram</a>
 </p>
