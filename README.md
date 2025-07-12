@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/mpavk/web_rc_car">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mpavk&repo=web_rc_car&theme=dracula&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mpavk&repo=web_rc_car&theme=dracula&show_owner=true&cache_seconds=1" />
   </a>
 </p>
 <p align="center">
